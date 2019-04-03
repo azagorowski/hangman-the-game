@@ -62,3 +62,9 @@ section{
 .reset:hover {
 	color: white;
 }
+
+h1 {
+	text-align: center;
+	color: #FFFFCC;
+	font-size: 60px;
+}
